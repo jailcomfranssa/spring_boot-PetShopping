@@ -1,4 +1,4 @@
-package jailcomfranssa.com.github.PetShopping;
+package jailcomfranssa.com.github.petshopping;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
